@@ -1,0 +1,20 @@
+{
+  "name": "wakybot",
+  "version": "1.0.0",
+  "description": "A Discord bot made in nodejs with rAthena support.",
+  "main": "WakyBot.js",
+  "scripts": {
+    "start": "node ./WakyBot.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+ "repository": {
+    "type": "git",
+    "url": "https://github.com/psychonaut04/WakyBot.git"
+  },
+  "author": "psychonaut04",
+  "private": false,
+  "license": "Apache 2.0",
+  "dependencies": {
+    "jimp": "^0.2.28"
+  }
+}
