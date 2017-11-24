@@ -16,16 +16,19 @@ Not all features are done yet, this first upload is just for testing.
 
 First you'll need [Node.js](https://nodejs.org/).
 Then to install, go to the project dir and use:  
-```npm install
+```
+npm install
 ```
 
 Or one of these  
-```npm install <git-host>:<git-user>/<repo-name>
+```
+npm install <git-host>:<git-user>/<repo-name>
 npm install <git repo url>   
 ```
 
 To run just use this command in the project folder   
-```node WakyBot
+```
+node WakyBot
 ```
 
 For database you can use the schema.sql file.
