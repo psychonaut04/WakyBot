@@ -1,4 +1,5 @@
 # Waky Bot
+#### No release, this upload is only for tests yet
 ---
 Waky is a Discord bot that can interact with  [rAthena](https://github.com/rathena/rathena) tables.
 You can use in your server, after reading our [license](https://github.com/psychonaut04/WakyBot/blob/master/LICENSE) and can let your players invite it too, as it supports more than one Discord guild.
